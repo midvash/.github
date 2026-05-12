@@ -15,7 +15,7 @@ Midvash is a complete Bible study platform: 70+ translations across 9 languages,
 | Repo | What |
 |------|------|
 | **[bible-data](https://github.com/midvash/bible-data)** | 33 public-domain Bible versions across 23 languages, JSON + SQLite, OSIS-coded. The dataset that powers our reader. |
-| **[bible-data-js](https://github.com/midvash/bible-data-js)** | TypeScript SDK for the dataset above. `npm install @midvash.com/bible-data`. |
+| **[bible-data-js](https://github.com/midvash/bible-data-js)** | TypeScript SDK for the dataset above. `npm install @midvash/bible-data`. |
 | **[bible-cross-references](https://github.com/midvash/bible-cross-references)** | 453 curated thematic cross-references, multilingual labels (en, pt, es). |
 
 More to come — we publish the parts of our stack that are useful to other projects (datasets, schemas, libraries).
