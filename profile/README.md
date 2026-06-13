@@ -21,7 +21,7 @@ theology. Free to use, ad-supported.
 | 📖 | **Bible reader** — read, search, study | [midvash.com](https://midvash.com) |
 | 🔌 | **Bible API** — public, free, no API key, 86 versions | [api.midvash.com](https://api.midvash.com) |
 | 🤖 | **Bible MCP** — Model Context Protocol server for LLMs | [mcp.midvash.com](https://mcp.midvash.com) |
-| 🧩 | **WordPress plugin** — auto-link Bible references | [wordpress.midvash.com](https://wordpress.midvash.com) |
+| 🧩 | **WordPress plugin** — auto-link Bible references | [midvash.app/wordpress-plugin](https://midvash.app/wordpress-plugin) |
 | 🧩 | **Chrome extension** — Bible Links anywhere on the web | [midvash.app/chrome-extension](https://midvash.app/chrome-extension/) |
 | 🍎 | **iOS app** | [midvash.app](https://midvash.app) — *coming soon* |
 | 🤖 | **Android app** | [midvash.app](https://midvash.app) — *coming soon* |
