@@ -31,11 +31,13 @@ theology. Free to use, ad-supported.
 | Repo | What |
 |------|------|
 | **[bible-api](https://github.com/midvash/bible-api)** | Free, no-key public Bible API — verses, chapters and versions across 86 public-domain translations. Powers api.midvash.com. |
-| **[bible-data](https://github.com/midvash/bible-data)** | 33 public-domain Bible versions across 23 languages, JSON + SQLite, OSIS-coded. The dataset that powers our reader. |
+| **[bible-mcp](https://github.com/midvash/bible-mcp)** | Free, no-key MCP server for the public Bible API — scripture for LLMs from any MCP client. Powers mcp.midvash.com. |
+| **[bible-data](https://github.com/midvash/bible-data)** | 33 public-domain Bible versions across 22 languages, JSON + SQLite, OSIS-coded. The dataset that powers our reader. |
 | **[bible-data-js](https://github.com/midvash/bible-data-js)** | TypeScript SDK for the dataset above. `npm install @midvash/bible-data`. |
 | **[bible-cross-references](https://github.com/midvash/bible-cross-references)** | 453 curated thematic cross-references, multilingual labels (en, pt, es). |
-| **[bible-by-midvash](https://github.com/midvash/bible-by-midvash)** | WordPress plugin: auto-detects Bible references in posts and adds hover-tooltip links. |
+| **[bible-wordpress-plugin](https://github.com/midvash/bible-wordpress-plugin)** | WordPress plugin: auto-detects Bible references in posts and adds hover-tooltip links. |
 | **[emdash-plugin-bible](https://github.com/midvash/emdash-plugin-bible)** | EmDash CMS plugin: auto-links Bible references with hover tooltips. Powered by the public Midvash API. |
+| **[bible-chrome-extension](https://github.com/midvash/bible-chrome-extension)** | Chrome extension that detects Bible references on any web page and links them with a hover-preview tooltip. |
 
 More to come — we publish the parts of our stack that are useful to other projects (datasets, schemas, libraries).
 
