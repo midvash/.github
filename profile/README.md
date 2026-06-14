@@ -30,7 +30,7 @@ theology. Free to use, ad-supported.
 
 | Repo | What |
 |------|------|
-| **[bible-api](https://github.com/midvash/bible-api)** | Free, no-key public Bible API — verses, chapters and versions across 86 public-domain translations. Powers api.midvash.com. |
+| **[bible-api](https://github.com/midvash/bible-api)** | Free, no-key public Bible API — verses, chapters and versions across 86 Bible translations. Powers api.midvash.com. |
 | **[bible-mcp](https://github.com/midvash/bible-mcp)** | Free, no-key MCP server for the public Bible API — scripture for LLMs from any MCP client. Powers mcp.midvash.com. |
 | **[bible-data](https://github.com/midvash/bible-data)** | 33 public-domain Bible versions across 22 languages, JSON + SQLite, OSIS-coded. The dataset that powers our reader. |
 | **[bible-data-js](https://github.com/midvash/bible-data-js)** | TypeScript SDK for the dataset above. `npm install @midvash/bible-data`. |
