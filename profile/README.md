@@ -1,5 +1,7 @@
 # Midvash
 
+> 🌐 **English** · [Português (BR)](./README.pt-BR.md) · [Español](./README.es.md)
+
 **Free, ad-supported Bible platform — read, search, study, and build.**
 
 🌐 **[midvash.com](https://midvash.com)** — the reader · 🔌 **[api.midvash.com](https://api.midvash.com)** — the public API
