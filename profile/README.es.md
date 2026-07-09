@@ -23,10 +23,10 @@ y un diccionario de teología bíblica. Gratis de usar, financiada con anuncios.
 | 📖 | **Lector bíblico** — lee, busca, estudia | [midvash.com](https://midvash.com) |
 | 🔌 | **Bible API** — pública, gratuita, sin clave de API, 86 versiones | [api.midvash.com](https://api.midvash.com) |
 | 🤖 | **Bible MCP** — servidor Model Context Protocol para LLMs | [mcp.midvash.com](https://mcp.midvash.com) |
-| 🧩 | **Plugin de WordPress** — autoenlaza referencias bíblicas | [midvash.app/wordpress-plugin](https://midvash.app/wordpress-plugin) |
-| 🧩 | **Extensión de Chrome** — Bible Links en cualquier lugar de la web | [midvash.app/chrome-extension](https://midvash.app/chrome-extension/) |
-| 🍎 | **App iOS** | [midvash.app](https://midvash.app) — *próximamente* |
-| 🤖 | **App Android** | [midvash.app](https://midvash.app) — *próximamente* |
+| 🧩 | **Plugin de WordPress** — autoenlaza referencias bíblicas | [midvash.com/wordpress-plugin](https://midvash.com/wordpress-plugin) |
+| 🧩 | **Extensión de Chrome** — Bible Links en cualquier lugar de la web | [midvash.com/chrome-extension](https://midvash.com/chrome-extension/) |
+| 🍎 | **App iOS** | [midvash.com](https://midvash.com) — *próximamente* |
+| 🤖 | **App Android** | [midvash.com](https://midvash.com) — *próximamente* |
 
 ## Proyectos open-source
 
@@ -64,12 +64,12 @@ Parte de [**Midvash**](https://midvash.com) — una plataforma gratuita de lectu
 | | |
 |---|---|
 | 📖 **Lector (web)** | [midvash.com](https://midvash.com) — 9 idiomas |
-| 📱 **App iOS** | [midvash.app/ios](https://midvash.app/ios) |
+| 📱 **App iOS** | [midvash.com/ios](https://midvash.com/ios) |
 | 🔌 **API** | [api.midvash.com](https://api.midvash.com) · [`bible-api`](https://github.com/midvash/bible-api) |
 | 🤖 **Servidor MCP** | [mcp.midvash.com](https://mcp.midvash.com) · [`bible-mcp`](https://github.com/midvash/bible-mcp) |
-| 🧩 **Plugin de WordPress** | [midvash.app/wordpress-plugin](https://midvash.app/wordpress-plugin) · [`bible-wordpress-plugin`](https://github.com/midvash/bible-wordpress-plugin) |
-| 🧩 **Plugin de EmDash** | [midvash.app/emdash-plugin](https://midvash.app/emdash-plugin) · [`emdash-plugin-bible`](https://github.com/midvash/emdash-plugin-bible) |
-| 🌐 **Extensión de Chrome** | [midvash.app/chrome-extension](https://midvash.app/chrome-extension) · [`bible-chrome-extension`](https://github.com/midvash/bible-chrome-extension) |
+| 🧩 **Plugin de WordPress** | [midvash.com/wordpress-plugin](https://midvash.com/wordpress-plugin) · [`bible-wordpress-plugin`](https://github.com/midvash/bible-wordpress-plugin) |
+| 🧩 **Plugin de EmDash** | [midvash.com/emdash-plugin](https://midvash.com/emdash-plugin) · [`emdash-plugin-bible`](https://github.com/midvash/emdash-plugin-bible) |
+| 🌐 **Extensión de Chrome** | [midvash.com/chrome-extension](https://midvash.com/chrome-extension) · [`bible-chrome-extension`](https://github.com/midvash/bible-chrome-extension) |
 | 📦 **Datos abiertos** | [`bible-data`](https://github.com/midvash/bible-data) · [`bible-data-js`](https://github.com/midvash/bible-data-js) · [`bible-cross-references`](https://github.com/midvash/bible-cross-references) |
 
-<sub>Gratuito y abierto, hecho por [Midvash](https://midvash.com) · [midvash.com](https://midvash.com) · [midvash.app](https://midvash.app)</sub>
+<sub>Gratuito y abierto, hecho por [Midvash](https://midvash.com) · [midvash.com](https://midvash.com) · [midvash.com](https://midvash.com)</sub>
