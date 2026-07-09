@@ -23,10 +23,10 @@ e um dicionário de teologia bíblica. Gratuito para usar, mantido por anúncios
 | 📖 | **Leitor bíblico** — leia, busque, estude | [midvash.com](https://midvash.com) |
 | 🔌 | **Bible API** — pública, gratuita, sem chave de API, 86 versões | [api.midvash.com](https://api.midvash.com) |
 | 🤖 | **Bible MCP** — servidor Model Context Protocol para LLMs | [mcp.midvash.com](https://mcp.midvash.com) |
-| 🧩 | **Plugin WordPress** — autolinka referências bíblicas | [midvash.app/wordpress-plugin](https://midvash.app/wordpress-plugin) |
-| 🧩 | **Extensão Chrome** — Bible Links em qualquer lugar da web | [midvash.app/chrome-extension](https://midvash.app/chrome-extension/) |
-| 🍎 | **App iOS** | [midvash.app](https://midvash.app) — *em breve* |
-| 🤖 | **App Android** | [midvash.app](https://midvash.app) — *em breve* |
+| 🧩 | **Plugin WordPress** — autolinka referências bíblicas | [midvash.com/wordpress-plugin](https://midvash.com/wordpress-plugin) |
+| 🧩 | **Extensão Chrome** — Bible Links em qualquer lugar da web | [midvash.com/chrome-extension](https://midvash.com/chrome-extension) |
+| 🍎 | **App iOS** | [midvash.com/ios](https://midvash.com/ios) — *em breve* |
+| 🤖 | **App Android** | [midvash.com/android](https://midvash.com/android) — *em breve* |
 
 ## Projetos open-source
 
@@ -38,7 +38,7 @@ e um dicionário de teologia bíblica. Gratuito para usar, mantido por anúncios
 | **[bible-data-js](https://github.com/midvash/bible-data-js)** | SDK TypeScript para o conjunto de dados acima. `npm install @midvash/bible-data`. |
 | **[bible-cross-references](https://github.com/midvash/bible-cross-references)** | 453 referências cruzadas temáticas curadas, rótulos multilíngues (en, pt, es). |
 | **[bible-wordpress-plugin](https://github.com/midvash/bible-wordpress-plugin)** | Plugin WordPress: detecta automaticamente referências bíblicas nos posts e adiciona links com tooltip ao passar o mouse. |
-| **[emdash-plugin-bible](https://github.com/midvash/emdash-plugin-bible)** | Plugin do CMS EmDash: autolinka referências bíblicas com tooltips ao passar o mouse. Movido pela API pública da Midvash. |
+| **[bible-emdash-plugin](https://github.com/midvash/bible-emdash-plugin)** | Plugin do CMS EmDash: autolinka referências bíblicas com tooltips ao passar o mouse. Movido pela API pública da Midvash. |
 | **[bible-chrome-extension](https://github.com/midvash/bible-chrome-extension)** | Extensão Chrome que detecta referências bíblicas em qualquer página da web e as linka com um tooltip de pré-visualização ao passar o mouse. |
 
 Tem mais por vir — publicamos as partes da nossa stack que são úteis para outros projetos (datasets, schemas, bibliotecas).
@@ -64,12 +64,12 @@ Faz parte do [**Midvash**](https://midvash.com) — uma plataforma gratuita de l
 | | |
 |---|---|
 | 📖 **Leitor (web)** | [midvash.com](https://midvash.com) — 9 idiomas |
-| 📱 **App iOS** | [midvash.app/ios](https://midvash.app/ios) |
+| 📱 **App iOS** | [midvash.com/ios](https://midvash.com/ios) |
 | 🔌 **API** | [api.midvash.com](https://api.midvash.com) · [`bible-api`](https://github.com/midvash/bible-api) |
 | 🤖 **Servidor MCP** | [mcp.midvash.com](https://mcp.midvash.com) · [`bible-mcp`](https://github.com/midvash/bible-mcp) |
-| 🧩 **Plugin WordPress** | [midvash.app/wordpress-plugin](https://midvash.app/wordpress-plugin) · [`bible-wordpress-plugin`](https://github.com/midvash/bible-wordpress-plugin) |
-| 🧩 **Plugin EmDash** | [midvash.app/emdash-plugin](https://midvash.app/emdash-plugin) · [`emdash-plugin-bible`](https://github.com/midvash/emdash-plugin-bible) |
-| 🌐 **Extensão Chrome** | [midvash.app/chrome-extension](https://midvash.app/chrome-extension) · [`bible-chrome-extension`](https://github.com/midvash/bible-chrome-extension) |
+| 🧩 **Plugin WordPress** | [midvash.com/wordpress-plugin](https://midvash.com/wordpress-plugin) · [`bible-wordpress-plugin`](https://github.com/midvash/bible-wordpress-plugin) |
+| 🧩 **Plugin EmDash** | [midvash.com/emdash-plugin](https://midvash.com/emdash-plugin) · [`bible-emdash-plugin`](https://github.com/midvash/bible-emdash-plugin) |
+| 🌐 **Extensão Chrome** | [midvash.com/chrome-extension](https://midvash.com/chrome-extension) · [`bible-chrome-extension`](https://github.com/midvash/bible-chrome-extension) |
 | 📦 **Dados abertos** | [`bible-data`](https://github.com/midvash/bible-data) · [`bible-data-js`](https://github.com/midvash/bible-data-js) · [`bible-cross-references`](https://github.com/midvash/bible-cross-references) |
 
-<sub>Gratuito e aberto, feito pela [Midvash](https://midvash.com) · [midvash.com](https://midvash.com) · [midvash.app](https://midvash.app)</sub>
+<sub>Gratuito e aberto, feito pela [Midvash](https://midvash.com) · [midvash.com](https://midvash.com)</sub>
