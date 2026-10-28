@@ -2,7 +2,7 @@
 
 > 🌐 **English** · [Português (BR)](./README.pt-BR.md) · [Español](./README.es.md)
 
-**Free, ad-supported Bible platform — read, search, study, and build.**
+**Daily devotional with the depth of Bible study — read, search, study, and build.**
 
 🌐 **[midvash.com](https://midvash.com)** — the reader · 🔌 **[api.midvash.com](https://api.midvash.com)** — the public API
 
@@ -10,31 +10,33 @@
 
 ## What we build
 
-Midvash is a complete Bible platform: 86 translations across 32 languages
+Midvash is a daily devotional with the depth of Bible study, on the web,
+iOS and Android. 100+ openly licensed translations in 60+ languages are
 served through a free public API, a polished web reader in 9 UI languages
 with full-text search, AI-assisted study, daily readings, cross-references,
 biblical character profiles, commentary, and a dictionary of biblical
-theology. Free to use, ad-supported.
+theology. The Bible text and the daily devotional are free for everyone;
+conversations with the AI are part of Midvash Pro.
 
 ## Products
 
 | | Product | Where |
 |---|---|---|
 | 📖 | **Bible reader** — read, search, study | [midvash.com](https://midvash.com) |
-| 🔌 | **Bible API** — public, free, no API key, 86 versions | [api.midvash.com](https://api.midvash.com) |
+| 🔌 | **Bible API** — public, free, no API key, 100+ open versions | [api.midvash.com](https://api.midvash.com) |
 | 🤖 | **Bible MCP** — Model Context Protocol server for LLMs | [mcp.midvash.com](https://mcp.midvash.com) |
 | 🧩 | **WordPress plugin** — auto-link Bible references | [midvash.com/wordpress-plugin](https://midvash.com/wordpress-plugin) |
 | 🧩 | **Chrome extension** — Bible Links anywhere on the web | [midvash.com/chrome-extension](https://midvash.com/chrome-extension) |
-| 🍎 | **iOS app** | [midvash.com/ios](https://midvash.com/ios) — *coming soon* |
-| 🤖 | **Android app** | [midvash.com/android](https://midvash.com/android) — *coming soon* |
+| 🍎 | **iOS app** | [App Store](https://apps.apple.com/app/id6775930176) |
+| 🤖 | **Android app** | [Google Play](https://play.google.com/store/apps/details?id=com.midvash.mobile) |
 
 ## Open-source projects
 
 | Repo | What |
 |------|------|
-| **[bible-api](https://github.com/midvash/bible-api)** | Free, no-key public Bible API — verses, chapters and versions across 86 Bible translations. Powers api.midvash.com. |
+| **[bible-api](https://github.com/midvash/bible-api)** | Free, no-key public Bible API — verses, chapters and versions across 100+ openly licensed Bible translations in 60+ languages. Powers api.midvash.com. |
 | **[bible-mcp](https://github.com/midvash/bible-mcp)** | Free, no-key MCP server for the public Bible API — scripture for LLMs from any MCP client. Powers mcp.midvash.com. |
-| **[bible-data](https://github.com/midvash/bible-data)** | 33 public-domain Bible versions across 22 languages, JSON + SQLite, OSIS-coded. The dataset that powers our reader. |
+| **[bible-data](https://github.com/midvash/bible-data)** | 30+ public-domain Bible versions across 20+ languages, JSON + SQLite, OSIS-coded. The dataset that powers our reader. |
 | **[bible-data-js](https://github.com/midvash/bible-data-js)** | TypeScript SDK for the dataset above. `npm install @midvash/bible-data`. |
 | **[bible-cross-references](https://github.com/midvash/bible-cross-references)** | 453 curated thematic cross-references, multilingual labels (en, pt, es). |
 | **[bible-wordpress-plugin](https://github.com/midvash/bible-wordpress-plugin)** | WordPress plugin: auto-detects Bible references in posts and adds hover-tooltip links. |
@@ -47,7 +49,7 @@ More to come — we publish the parts of our stack that are useful to other proj
 
 🇺🇸 English · 🇧🇷 Português · 🇪🇸 Español · 🇩🇪 Deutsch · 🇫🇷 Français · 🇮🇹 Italiano · 🇨🇳 中文 · 🇷🇺 Русский · 🇰🇷 한국어
 
-*(The API itself serves Bible content in 32 languages — these 9 are the
+*(The API itself serves Bible content in 60+ languages — these 9 are the
 languages the reader UI is fully translated into.)*
 
 ## Get in touch
@@ -59,12 +61,13 @@ languages the reader UI is fully translated into.)*
 
 ## The Midvash ecosystem
 
-Part of [**Midvash**](https://midvash.com) — a free Bible reading & study platform. Everything is open and interlinks:
+Part of [**Midvash**](https://midvash.com) — a daily devotional with the depth of Bible study. Everything is open and interlinks:
 
 | | |
 |---|---|
 | 📖 **Reader (web)** | [midvash.com](https://midvash.com) — 9 languages |
-| 📱 **iOS app** | [midvash.com/ios](https://midvash.com/ios) |
+| 📱 **iOS app** | [App Store](https://apps.apple.com/app/id6775930176) |
+| 📱 **Android app** | [Google Play](https://play.google.com/store/apps/details?id=com.midvash.mobile) |
 | 🔌 **API** | [api.midvash.com](https://api.midvash.com) · [`bible-api`](https://github.com/midvash/bible-api) |
 | 🤖 **MCP server** | [mcp.midvash.com](https://mcp.midvash.com) · [`bible-mcp`](https://github.com/midvash/bible-mcp) |
 | 🧩 **WordPress plugin** | [midvash.com/wordpress-plugin](https://midvash.com/wordpress-plugin) · [`bible-wordpress-plugin`](https://github.com/midvash/bible-wordpress-plugin) |
